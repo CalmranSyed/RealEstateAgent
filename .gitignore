@@ -103,3 +103,4 @@ $RECYCLE.BIN/
 .vs/
 # End of https://www.toptal.com/developers/gitignore/api/windows,react,nextjs,linux
 # *.sqlite
+*.sqlite
